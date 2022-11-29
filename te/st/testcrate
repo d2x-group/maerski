@@ -1,0 +1,10 @@
+{
+    "name": "testcrate",
+    "version": "0.1.0",
+    "deps": [],
+    "cksum": "5648185c0804a57777d342e455b61e83660bc442f3d653cd82d4988ea114341e",
+    "features": {},
+    "yanked": false,
+    "links": null
+}
+
